@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ iniciarSistema()
+comment3.params=
+comment3.target=void\ encerrarSistema()
+comment4.params=
+comment4.target=void\ exibirMenu()
+comment5.params=
+comment5.target=void\ criarLocatario()
+comment6.params=
+comment6.target=void\ listarTodos()
+comment7.params=
+comment7.target=void\ buscarPorId()
+comment8.params=
+comment8.target=void\ atualizarUsuario()
+comment9.params=
+comment9.target=void\ deletarUsuario()
+numComments=10

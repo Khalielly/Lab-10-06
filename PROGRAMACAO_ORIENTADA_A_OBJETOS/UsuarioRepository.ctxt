@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=UsuarioRepository
+comment1.params=database
+comment1.target=UsuarioRepository(Database)
+comment2.params=
+comment2.target=void\ setupRepository()
+comment3.params=usuario
+comment3.target=void\ criar(Usuario)
+comment4.params=id
+comment4.target=Usuario\ buscar(int)
+comment5.params=usuario
+comment5.target=void\ atualizar(Usuario)
+comment6.params=id
+comment6.target=void\ deletar(int)
+comment7.params=
+comment7.target=void\ listarTodos()
+numComments=8
