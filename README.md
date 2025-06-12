@@ -31,6 +31,9 @@ O projeto é dividido em três principais componentes:
 ![Foto 4](/PROGRAMACAO_ORIENTADA_A_OBJETOS/bluej/docs/foto4.jpeg)
 ![Foto 5](/PROGRAMACAO_ORIENTADA_A_OBJETOS/bluej/docs/foto5.jpeg)
 ![Foto 6](/PROGRAMACAO_ORIENTADA_A_OBJETOS/bluej/docs/foto6.jpeg)
+![Foto 7](/PROGRAMACAO_ORIENTADA_A_OBJETOS/bluej/docs/foto7.png)
+![Foto 8](/PROGRAMACAO_ORIENTADA_A_OBJETOS/bluej/docs/foto8.png)
+![Foto 9](/PROGRAMACAO_ORIENTADA_A_OBJETOS/bluej/docs/foto9.png)
 
 
 
